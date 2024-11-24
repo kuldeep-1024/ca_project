@@ -16,7 +16,7 @@
 `Naorem Akshaykumar`
 
 
-# for more and better details----- read parsec/FINAL REPORT CA PROJECT.pdf 
+#### for more and better details----- read parsec/FINAL REPORT CA PROJECT.pdf 
 
 **To Build The Gem5 With MESI Protocol:**
 
